@@ -1,0 +1,22 @@
+body {
+  font-family: Roboto, sans-serif;
+}
+
+soup {
+  text-align: center;
+}
+
+h2 {
+  color: #369;
+  font-size: 200%;
+}
+
+h3 {
+  color: rgb(133, 51, 153);
+  font-size: 150%;
+}
+
+ul {
+  list-style: none;
+  display: inline;
+}
